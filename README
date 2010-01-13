@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2924
+
+Script to add cterm support to color schemes without the need for the GUIColorSchemes plugin
+
+Details, Installation and Usage: http://shawnbiddle.com/toCterm
+
+Note: The utlity will only convert HTML colors. Named colors (Grey, Green, etc.) will not be translated to cterm.
+Note #2: Depending on the speed of your machine and the size of your colorscheme the script may take a while.
